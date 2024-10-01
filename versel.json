@@ -1,3 +1,8 @@
 {
-    "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+    "routes": [
+        {
+            "scr": "^/$",
+            "dest": "/Primeiro Projeto/capivarashop.html"
+        }
+    ]
 }
